@@ -7,7 +7,7 @@ prices; the markup is your profit.
 
 It runs on **Cloudflare's free plan** and deploys in a few clicks. Name, logo, colors and links are yours to set.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/rehul888/notbot)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/muhammadjon1505f-dot/notbot-smm)
 
 <p align="center">
   <img src="docs/screenshots/hero.webp" alt="NotBot Mini App: home screen, order form and order tracking" width="100%">
@@ -52,7 +52,7 @@ It runs on **Cloudflare's free plan** and deploys in a few clicks. Name, logo, c
 > ("Upload and deploy" / drag and drop): that screen can't build this app and shows a warning about a build process.
 > The button builds it for you, on a phone too.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/rehul888/notbot)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/muhammadjon1505f-dot/notbot-smm)
 
 1. Click **Deploy to Cloudflare** and sign in (connect your GitHub account when Cloudflare asks).
 2. Cloudflare copies this project to your GitHub, creates the database and asks for:

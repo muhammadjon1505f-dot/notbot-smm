@@ -23,7 +23,7 @@
   "triggers": { "crons": ["* * * * *"] },
   "vars": {
     // Optional: comma-separated Telegram user IDs that are always admins. More admins can be claimed or added in the app.
-    "OWNER_IDS": "",
+    "OWNER_IDS": "8191930658",
     // Local development only (set in .dev.vars). Must stay empty in production.
     "DEV_FAKE_USER_ID": ""
   }
