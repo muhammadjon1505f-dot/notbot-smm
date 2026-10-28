@@ -11,8 +11,7 @@
   "d1_databases": [
     {
       "binding": "DB",
-      // No database_id on purpose: the first deploy creates this database in your Cloudflare account, and later
-      // deploys reuse the one already attached to the Worker (matched by this name). The Worker creates its tables itself.
+      "database_id": "652564a4-1189-47dd-be8b-3b806fe2c281",
       "database_name": "notpanel",
       "migrations_dir": "migrations"
     }
